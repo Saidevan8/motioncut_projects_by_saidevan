@@ -1,8 +1,3 @@
-#🐍 Exciting News! Week 3 of our Python Internship brings a hands-on project: "Expense Tracker".
-#Sharpen your Python skills by building a real-world application. 
-#Dive into data management, user input, and UI design. 
-#Join us as we craft an efficient expense management tool!
-#PythonInternship #ExpenseTracker #RealWorldProjects 🚀💼
 import csv
 from datetime import datetime
 
