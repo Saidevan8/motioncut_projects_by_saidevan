@@ -25,7 +25,6 @@ def view_expenses():
 
 def view_summary():
     #View a summary of monthly expenses.
-    #The user will be prompted to enter the month and year.
     month_data = {}
 
     with open("expenses.csv", "r") as f:
